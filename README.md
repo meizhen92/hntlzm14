@@ -1,6 +1,6 @@
 ### Hi there 👋
-### My name is Mi-Jin
-
+My name is Mi-Jin  
+🌱 I’m currently learning 
 <!--
 **hntlzm14/hntlzm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
